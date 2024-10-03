@@ -24,7 +24,7 @@ const MainSection: React.FC = () => {
         <Image src="/images/shoes7.png" alt="Shoe 7" width={300} height={300} />
         <Image src="/images/shoes8.png" alt="Shoe 8" width={300} height={300} />
         <Image src="/images/travis.png" alt="Red Shoes 1" width={400} height={400} />
-        <Image src="/images/blue.jpeg" alt="Red Shoes 2" width={300} height={300}  />
+        <Image src="/images/blue.webp" alt="Red Shoes 2" width={300} height={300}  />
         
       </div>
     </section>
